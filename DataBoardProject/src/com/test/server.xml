@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context docBase="DataBoardProject" path="/DataBoardProject" reloadable="true" source="org.eclipse.jst.jee.server:DataBoardProject">
+    <Resource auth="Container" driverClassName="oracle.jdbc.driver.OracleDriver" maxActive="10" maxIdle="5" maxWait="-1" name="jdbc/oracle" password="tiger" type="com.test.DataSource" url="jdbc:oracle:thin:@localhost:1521:ORCL" username="scott"/>
+</Context>
